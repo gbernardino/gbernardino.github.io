@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Universitat Politècnica de Catalunya, 2014
+* Engineer Degree in Computer Science, Universitat Politècnica de Catalunya, 2014
+* M.S. in Mathematics, Rheinische Friedrich-Wilhelms-Universität Bonn, 2016
+* Ph.D in Information and Communication Technologies, Universitat Pompeu Fabra, 2019
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Intership in Philips, Paris
+* Internship in Fraunhofer, Bonn
+* Internship in Simpack Gmbh, Munich
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mesh processing
+* Image analysis
+* Web programming
+
 
 Publications
 ======
@@ -42,18 +36,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

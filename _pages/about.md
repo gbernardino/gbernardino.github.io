@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**WARNING: This webpage is under construction 
+
 I am a researcher in medical image analysis working at the intersection of applied mathematics, machine learning and image processing. I develop novel computational techniques for better assessment of the cardiovascular system. My methodological contributions consider the physiology of the underlying clinical problems. I have a strong technical expertise in machine learning, especially in its applications to medical image analysis, and a deep knowledge of cardiac physiology and its biophysical modelling. My view is that physiological knowledge (physical laws) needs to be combined with data-based models to overcome the lack of data quantity in quality in medical imaging, as well as to obtain interpretable models.
 
 Since September 2022, I am a  Margarita Salas fellows developping machine learning methods to detect illnesses in fetal echocardiographies, in a collaboration between the clinical research group BCNatal (IDIBAPS) and the Universitat Pompeu Fabra. The objective is to overcome the limiting factors for the application of machine learning for the automatic assessment of fetal images: 1) data scarcity, 2) the high noise in fetal echocardiographic images 3) complexity of the still incomplete fetal heart. 

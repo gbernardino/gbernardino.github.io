@@ -9,20 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+Previous positions
+======
+* 2020-2022 Postdoctoral researcher in CREATIS (Lyon, France)
+* 2017-2019 Junior research engineer in Philips Research (Paris, France)
+* 2016-2019 PhD student at Universitat Pompeu Fabra (Barcelona, Spain)
+
 Education
 ======
+* Ph.D in Information and Communication Technologies, Universitat Pompeu Fabra (Barcelona, spain), 2019
+* M.S. in Mathematics, Rheinische Friedrich-Wilhelms-Universität Bonn (Germany), 2016
 * B.S. in Mathematics, Universitat Politècnica de Catalunya (Barcelona, Spain), 2014
 * Engineer Degree in Computer Science, Universitat Politècnica de Catalunya (Barcelona, Spain), 2014
-* M.S. in Mathematics, Rheinische Friedrich-Wilhelms-Universität Bonn (Germany), 2016
-* Ph.D in Information and Communication Technologies, Universitat Pompeu Fabra (Barcelona, spain), 2019
 
-  
 Skills
 ======
 * Cardiovascular image analysis
 * Mesh processing
 * Physiological modelling
-
 
 Publications
 ======
